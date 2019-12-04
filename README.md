@@ -21,7 +21,9 @@ You can find the source of facets here :
 3. Use the script ! :) 
 
     `python generate_html_facets.py data/adult.csv --type dive --output output/example-facets-dive.html`
+    
     or
+    
     `python generate_html_facets.py  data/adult.csv --type overview --output output/example-facets-overview.html --target income`
 
 
